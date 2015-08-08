@@ -1,5 +1,5 @@
 # Software Development Books
-These are some of the most relevant technical books I've read since 2013
+These are the technical books I've read since 2013, broken down in categories. All of them relate to software development & programming, but most of them focus on front-end development & JavaScript.
 
 ## JavaScript
 * __JavaScript, The Good Parts__ by Douglas Crockford
@@ -23,7 +23,7 @@ These are some of the most relevant technical books I've read since 2013
 * __Killer UX Design__ by Jodie Moule
 
 # @todo
-Books I've already bought and plan to read, or just planned to buy
+Books I've already bought and plan to read, or just planned to buy.
 * __Functional JavaScript__ by Michael Fogus _[bought]_
 * __JavaScript Application Design__ by Nicolas Bevacqua _[bought]_
 * __Clean Code__ by Robert C. Martin _[bought]_
