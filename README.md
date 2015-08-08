@@ -24,7 +24,7 @@ These are the technical books I've read since 2013, broken down in categories. A
 
 # @todo
 Books I've already bought and plan to read, or just planned to buy.
-* __[Functional JavaScript][FJS]__ by Michael Fogus _[bought]_
+* __[Functional JavaScript][FJS]__ by Michael Fogus _[started reading]_
 * __[JavaScript Application Design][JSAD]__ by Nicolas Bevacqua _[bought]_
 * __[Clean Code][CC]__ by Robert C. Martin _[bought]_
 * __[Agile Software Development][ASD]__ by Robert C. Martin _[bought]_
