@@ -22,7 +22,7 @@ These are the technical books I've read since 2013, broken down in categories. A
 * __[High Performance Browser Networking][HPBN]__ by Ilya Grigorik
 * __[Killer UX Design][KUXD]__ by Jodie Moule
 
-# @todo
+## @todo
 Books I've already bought and plan to read, or just planned to buy.
 * __[Functional JavaScript][FJS]__ by Michael Fogus _[started reading]_
 * __[JavaScript Application Design][JSAD]__ by Nicolas Bevacqua _[bought]_
