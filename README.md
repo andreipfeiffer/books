@@ -25,9 +25,9 @@ These are the technical books I've read since 2013, broken down in categories. A
 
 ## @todo
 Books I've already bought and plan to read, or just planned to buy.
-* __[JavaScript Application Design][JSAD]__ by Nicolas Bevacqua _[started reading]_
+* __[Agile Software Development][ASD]__ by Robert C. Martin _[started reading]_
+* __[JavaScript Application Design][JSAD]__ by Nicolas Bevacqua _[bought]_
 * __[Clean Code][CC]__ by Robert C. Martin _[bought]_
-* __[Agile Software Development][ASD]__ by Robert C. Martin _[bought]_
 
 [JSTDP]: http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742
 [PJSFWD]: http://www.amazon.com/Professional-JavaScript-Developers-Nicholas-Zakas/dp/1118026691
