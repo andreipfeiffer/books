@@ -12,6 +12,7 @@ These are the technical books I've read since 2013, broken down in categories. A
 * __[Expert JavaScript][EJS]__ by Mark Daggett
 * __[Node.js in Action][NJSIA]__ by Mike Cantelon
 * __[Functional JavaScript][FJS]__ by Michael Fogus
+* __[JavaScript Application Design][JSAD]__ by Nicolas Bevacqua
 
 ## Principles, practices & theory
 * __[Refactoring][R]__ by Martin Fowler
@@ -26,8 +27,7 @@ These are the technical books I've read since 2013, broken down in categories. A
 
 ## @todo
 Books I've already bought and plan to read, or just planned to buy.
-* __[JavaScript Application Design][JSAD]__ by Nicolas Bevacqua _[started reading]_
-* __[Clean Code][CC]__ by Robert C. Martin _[bought]_
+* __[Clean Code][CC]__ by Robert C. Martin _[started reading]_
 * __[Learning ECMAScript 6][LES6]__ by Narayan Prusty _[in shopping cart]_
 
 [JSTDP]: http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742
