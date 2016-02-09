@@ -28,7 +28,7 @@ These are the technical books I've read since 2013, broken down in categories. A
 ## @todo
 Books I've already bought and plan to read, or just planned to buy.
 * __[Clean Code][CC]__ by Robert C. Martin _[started reading]_
-* __[Learning ECMAScript 6][LES6]__ by Narayan Prusty _[in shopping cart]_
+* __[Understanding ECMAScript 6][UES6]__ by Nicholas Zakas _[started reading]_
 
 [JSTDP]: http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742
 [PJSFWD]: http://www.amazon.com/Professional-JavaScript-Developers-Nicholas-Zakas/dp/1118026691
@@ -49,4 +49,4 @@ Books I've already bought and plan to read, or just planned to buy.
 [JSAD]: http://www.amazon.com/JavaScript-Application-Design-Build-Approach/dp/1617291951
 [CC]: http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882
 [ASD]: http://www.amazon.com/Software-Development-Principles-Patterns-Practices/dp/0135974445
-[LES6]: http://www.amazon.com/Learning-ECMAScript-6-Narayan-Prusty/dp/1785884441
+[UES6]: https://leanpub.com/understandinges6
