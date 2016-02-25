@@ -13,6 +13,7 @@ These are the technical books I've read since 2013, broken down in categories. A
 * __[Node.js in Action][NJSIA]__ by Mike Cantelon
 * __[Functional JavaScript][FJS]__ by Michael Fogus
 * __[JavaScript Application Design][JSAD]__ by Nicolas Bevacqua
+* __[Understanding ECMAScript 6][UES6]__ by Nicholas Zakas
 
 ## Principles, practices & theory
 * __[Refactoring][R]__ by Martin Fowler
@@ -20,6 +21,7 @@ These are the technical books I've read since 2013, broken down in categories. A
 * __[The Pragmatic Programmer][TPP]__ by Andrew Hunt & David Thomas
 * __[Test-Driven Development][TDD]__ by Kent Beck
 * __[Agile Software Development][ASD]__ by Robert C. Martin
+* __[Clean Code][CC]__ by Robert C. Martin
 
 ## Others
 * __[High Performance Browser Networking][HPBN]__ by Ilya Grigorik
@@ -27,8 +29,7 @@ These are the technical books I've read since 2013, broken down in categories. A
 
 ## @todo
 Books I've already bought and plan to read, or just planned to buy.
-* __[Clean Code][CC]__ by Robert C. Martin _[started reading]_
-* __[Understanding ECMAScript 6][UES6]__ by Nicholas Zakas _[started reading]_
+* __[Exploring ES6][EES6]__ by Axel Rauschmayer _[started reading]_
 
 [JSTDP]: http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742
 [PJSFWD]: http://www.amazon.com/Professional-JavaScript-Developers-Nicholas-Zakas/dp/1118026691
@@ -50,3 +51,4 @@ Books I've already bought and plan to read, or just planned to buy.
 [CC]: http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882
 [ASD]: http://www.amazon.com/Software-Development-Principles-Patterns-Practices/dp/0135974445
 [UES6]: https://leanpub.com/understandinges6
+[EES6]: https://leanpub.com/exploring-es6/
