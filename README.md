@@ -30,6 +30,13 @@ These are the technical books I've read since 2013, broken down in categories. A
 ## @todo
 Books I've already bought and plan to read, or just planned to buy.
 * __[Exploring ES6][EES6]__ by Axel Rauschmayer _[started reading]_
+* __[The Inmates Are Running the Asylum][TIARTA]__ by Alan Cooper _[started reading]_
+* __[Programming JavaScript Applications][PJSA]__ by Eric Elliot _[bought]_
+* __[Don't Make Me Think][DMMT]__ by Steve Krug _[bought]_
+* __[ClojureScript: Up and Running][CSUR]__ by Stuart Sierra & Luke VanderHart _[bought]_
+* __[Data Structures and Algorithms with JavaScript][DSAJS]__ by Michael McMillan _[bought]_
+* __[Pro React][PR]__ by Cassio de Sousa Antonio _[bought]_
+* __[The Nature of Software Development][TNSD]__ by Ron Jeffries _[bought]_
 
 [JSTDP]: http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742
 [PJSFWD]: http://www.amazon.com/Professional-JavaScript-Developers-Nicholas-Zakas/dp/1118026691
@@ -52,3 +59,10 @@ Books I've already bought and plan to read, or just planned to buy.
 [ASD]: http://www.amazon.com/Software-Development-Principles-Patterns-Practices/dp/0135974445
 [UES6]: https://leanpub.com/understandinges6
 [EES6]: https://leanpub.com/exploring-es6/
+[TIARTA]: http://www.amazon.com/Inmates-Are-Running-Asylum-Products/dp/0672326140
+[PJSA]: http://www.bookdepository.com/Programming-JavaScript-Applications-Eric-Elliot/9781491950296
+[DMMT]: http://www.bookdepository.com/Dont-Make-Me-Think-Steve-Krug/9780321965516
+[CSUR]: http://www.bookdepository.com/ClojureScript-Up-Running-Stuart-Sierra/9781449327439
+[DSAJS]: http://www.bookdepository.com/Data-Structures-Algorithms-with-JavaScript-Michael-McMillan/9781449364939
+[PR]: http://www.bookdepository.com/Pro-React-2015-Cassio-de-Sousa-Antonio/9781484212615
+[TNSD]: http://www.bookdepository.com/Nature-Software-Development-Ron-Jeffries/9781941222379
