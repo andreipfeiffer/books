@@ -26,11 +26,11 @@ These are the technical books I've read since 2013, broken down in categories. A
 ## Others
 * __[High Performance Browser Networking][HPBN]__ by Ilya Grigorik
 * __[Killer UX Design][KUXD]__ by Jodie Moule
+* __[The Inmates Are Running the Asylum][TIARTA]__ by Alan Cooper
 
 ## @todo
 Books I've already bought and plan to read, or just planned to buy.
 * __[Exploring ES6][EES6]__ by Axel Rauschmayer _[started reading]_
-* __[The Inmates Are Running the Asylum][TIARTA]__ by Alan Cooper _[started reading]_
 * __[Programming JavaScript Applications][PJSA]__ by Eric Elliot _[bought]_
 * __[Don't Make Me Think][DMMT]__ by Steve Krug _[bought]_
 * __[ClojureScript: Up and Running][CSUR]__ by Stuart Sierra & Luke VanderHart _[bought]_
