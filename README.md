@@ -32,7 +32,7 @@ These are the technical books I've read since 2013, broken down in categories. A
 ## @todo
 Books I've already bought and plan to read, or just planned to buy.
 * __[Exploring ES6][EES6]__ by Axel Rauschmayer _[started reading]_
-* __[Don't Make Me Think][DMMT]__ by Steve Krug _[bought]_
+* __[Don't Make Me Think][DMMT]__ by Steve Krug _[started reading]_
 * __[ClojureScript: Up and Running][CSUR]__ by Stuart Sierra & Luke VanderHart _[bought]_
 * __[Data Structures and Algorithms with JavaScript][DSAJS]__ by Michael McMillan _[bought]_
 * __[Pro React][PR]__ by Cassio de Sousa Antonio _[bought]_
