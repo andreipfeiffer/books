@@ -24,15 +24,17 @@ These are the technical books I've read since 2013, broken down in categories. A
 * __[Agile Software Development][ASD]__ by Robert C. Martin
 * __[Clean Code][CC]__ by Robert C. Martin
 
-## Others
-* __[High Performance Browser Networking][HPBN]__ by Ilya Grigorik
+## Design
 * __[Killer UX Design][KUXD]__ by Jodie Moule
 * __[The Inmates Are Running the Asylum][TIARTA]__ by Alan Cooper
+* __[Don't Make Me Think][DMMT]__ by Steve Krug
+
+## Others
+* __[High Performance Browser Networking][HPBN]__ by Ilya Grigorik
 
 ## @todo
 Books I've already bought and plan to read, or just planned to buy.
 * __[Exploring ES6][EES6]__ by Axel Rauschmayer _[started reading]_
-* __[Don't Make Me Think][DMMT]__ by Steve Krug _[started reading]_
 * __[ClojureScript: Up and Running][CSUR]__ by Stuart Sierra & Luke VanderHart _[bought]_
 * __[Data Structures and Algorithms with JavaScript][DSAJS]__ by Michael McMillan _[bought]_
 * __[Pro React][PR]__ by Cassio de Sousa Antonio _[bought]_
