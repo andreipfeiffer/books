@@ -23,6 +23,7 @@ These are the technical books I've read since 2013, broken down in categories. A
 * __[Test-Driven Development][TDD]__ by Kent Beck
 * __[Agile Software Development][ASD]__ by Robert C. Martin
 * __[Clean Code][CC]__ by Robert C. Martin
+* __[The Nature of Software Development][TNSD]__ by Ron Jeffries
 
 ## Design
 * __[Killer UX Design][KUXD]__ by Jodie Moule
@@ -38,7 +39,6 @@ Books I've already bought and plan to read, or just planned to buy.
 * __[ClojureScript: Up and Running][CSUR]__ by Stuart Sierra & Luke VanderHart _[bought]_
 * __[Data Structures and Algorithms with JavaScript][DSAJS]__ by Michael McMillan _[bought]_
 * __[Pro React][PR]__ by Cassio de Sousa Antonio _[bought]_
-* __[The Nature of Software Development][TNSD]__ by Ron Jeffries _[bought]_
 
 [JSTDP]: http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742
 [PJSFWD]: http://www.amazon.com/Professional-JavaScript-Developers-Nicholas-Zakas/dp/1118026691
