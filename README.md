@@ -15,6 +15,7 @@ These are the technical books I've read since 2013, broken down in categories. A
 * __[JavaScript Application Design][JSAD]__ by Nicolas Bevacqua
 * __[Understanding ECMAScript 6][UES6]__ by Nicholas Zakas
 * __[Programming JavaScript Applications][PJSA]__ by Eric Elliot
+* __[Data Structures and Algorithms with JavaScript][DSAJS]__ by Michael McMillan
 
 ## Principles, practices & theory
 * __[Refactoring][R]__ by Martin Fowler
@@ -37,8 +38,7 @@ These are the technical books I've read since 2013, broken down in categories. A
 Books I've already bought and plan to read, or just planned to buy.
 * __[Exploring ES6][EES6]__ by Axel Rauschmayer _[started reading]_
 * __[ClojureScript: Up and Running][CSUR]__ by Stuart Sierra & Luke VanderHart _[bought]_
-* __[Data Structures and Algorithms with JavaScript][DSAJS]__ by Michael McMillan _[bought]_
-* __[Pro React][PR]__ by Cassio de Sousa Antonio _[bought]_
+* __[Pro React][PR]__ by Cassio de Sousa Antonio _[started reading]_
 
 [JSTDP]: http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742
 [PJSFWD]: http://www.amazon.com/Professional-JavaScript-Developers-Nicholas-Zakas/dp/1118026691
