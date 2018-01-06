@@ -13,7 +13,6 @@
 * __[Pro React][PR]__ by Cassio de Sousa Antonio *__(90 RON)__*
 * __[Test-Driven Development][TDD]__ by Kent Beck *__(90 RON)__*
 * __[Agile Software Development][ASD]__ by Robert C. Martin *__(170 RON)__*
-* __[Clean Code][CC]__ by Robert C. Martin *__(100 RON)__*
 * __[High Performance Browser Networking][HPBN]__ by Ilya Grigorik *__(120 RON)__*
 
 [JSTDP]: http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742
