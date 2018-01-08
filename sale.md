@@ -1,6 +1,6 @@
 # Books for Sale
 
-* ~~__[JavaScript, The Good Parts][JSTDP]__ by Douglas Crockford *__(50 RON)__*~~ (rezervat Werner)
+* ~~__[JavaScript, The Good Parts][JSTDP]__ by Douglas Crockford *__(50 RON)__*~~ (sold)
 * __[Maintainable JavaScript][MJS]__ by Nicholas Zakas *__(70 RON)__*
 * __[The Principles of Object-Oriented JavaScript][OOJS]__ by Nicholas Zakas *__(50 RON)__*
 * __[Testable JavaScript][TJS]__ by Mark Ethan Trostler *__(60 RON)__*
@@ -11,7 +11,7 @@
 * __[Programming JavaScript Applications][PJSA]__ by Eric Elliot *__(90 RON)__*
 * __[Data Structures and Algorithms with JavaScript][DSAJS]__ by Michael McMillan *__(90 RON)__*
 * __[Pro React][PR]__ by Cassio de Sousa Antonio *__(90 RON)__*
-* ~~__[Test-Driven Development][TDD]__ by Kent Beck *__(90 RON)__*~~ (rezervat Werner)
+* ~~__[Test-Driven Development][TDD]__ by Kent Beck *__(90 RON)__*~~ (sold)
 * __[Agile Software Development][ASD]__ by Robert C. Martin *__(170 RON)__*
 * __[High Performance Browser Networking][HPBN]__ by Ilya Grigorik *__(120 RON)__*
 
