@@ -10,10 +10,10 @@
 * __[JavaScript Application Design][JSAD]__ by Nicolas Bevacqua *__(100 RON)__*
 * __[Programming JavaScript Applications][PJSA]__ by Eric Elliot *__(90 RON)__*
 * __[Data Structures and Algorithms with JavaScript][DSAJS]__ by Michael McMillan *__(90 RON)__*
-* __[Pro React][PR]__ by Cassio de Sousa Antonio *__(90 RON)__*
+* ~~__[Pro React][PR]__ by Cassio de Sousa Antonio *__(90 RON)__*~~ (sold)
 * ~~__[Test-Driven Development][TDD]__ by Kent Beck *__(90 RON)__*~~ (sold)
 * __[Agile Software Development][ASD]__ by Robert C. Martin *__(170 RON)__*
-* __[High Performance Browser Networking][HPBN]__ by Ilya Grigorik *__(120 RON)__*
+* ~~__[High Performance Browser Networking][HPBN]__ by Ilya Grigorik *__(120 RON)__*~~ (sold)
 
 [JSTDP]: http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742
 [PJSFWD]: http://www.amazon.com/Professional-JavaScript-Developers-Nicholas-Zakas/dp/1118026691
