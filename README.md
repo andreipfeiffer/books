@@ -2,46 +2,46 @@
 These are the technical books I've read since 2013, broken down in categories. All of them relate to software development & programming, but most of them focus on front-end development & JavaScript.
 
 ## JavaScript
-* __[JavaScript, The Good Parts][JSTDP]__ by Douglas Crockford
-* __[Professional JavaScript for Web Developers][PJSFWD]__ by Nicholas Zakas
+* [JavaScript, The Good Parts][JSTDP] by Douglas Crockford
+* [Professional JavaScript for Web Developers][PJSFWD] by Nicholas Zakas
 * __[Maintainable JavaScript][MJS]__ by Nicholas Zakas
 * __[Object-Oriented JavaScript][OOJS]__ by Nicholas Zakas
 * __[JavaScript Patterns][JSP]__ by Stoyan Stefanov
-* __[Testable JavaScript][TJS]__ by Mark Ethan Trostler
+* [Testable JavaScript][TJS] by Mark Ethan Trostler
 * __[High Performance JavaScript][HPJS]__ by Nicholas Zakas
-* __[Expert JavaScript][EJS]__ by Mark Daggett
-* __[Node.js in Action][NJSIA]__ by Mike Cantelon
-* __[Functional JavaScript][FJS]__ by Michael Fogus
-* __[JavaScript Application Design][JSAD]__ by Nicolas Bevacqua
+* [Expert JavaScript][EJS] by Mark Daggett
+* [Node.js in Action][NJSIA] by Mike Cantelon
+* [Functional JavaScript][FJS] by Michael Fogus
+* [JavaScript Application Design][JSAD] by Nicolas Bevacqua
 * __[Understanding ECMAScript 6][UES6]__ by Nicholas Zakas
-* __[Programming JavaScript Applications][PJSA]__ by Eric Elliot
+* [Programming JavaScript Applications][PJSA] by Eric Elliot
 * __[Data Structures and Algorithms with JavaScript][DSAJS]__ by Michael McMillan
-* __[Pro React][PR]__ by Cassio de Sousa Antonio
+* [Pro React][PR] by Cassio de Sousa Antonio
 
 ## Principles, practices & theory
 * __[Refactoring][R]__ by Martin Fowler
 * __[The Clean Coder][TCC]__ by Robert C. Martin
 * __[The Pragmatic Programmer][TPP]__ by Andrew Hunt & David Thomas
-* __[Test-Driven Development][TDD]__ by Kent Beck
-* __[Agile Software Development][ASD]__ by Robert C. Martin
+* [Test-Driven Development][TDD] by Kent Beck
+* [Agile Software Development][ASD] by Robert C. Martin
 * __[Clean Code][CC]__ by Robert C. Martin
 * __[The Nature of Software Development][TNSD]__ by Ron Jeffries
 
 ## Design
 * __[Killer UX Design][KUXD]__ by Jodie Moule
 * __[The Inmates Are Running the Asylum][TIARTA]__ by Alan Cooper
-* __[Don't Make Me Think][DMMT]__ by Steve Krug
+* [Don't Make Me Think][DMMT] by Steve Krug
 
 ## Others
-* __[High Performance Browser Networking][HPBN]__ by Ilya Grigorik
+* [High Performance Browser Networking][HPBN] by Ilya Grigorik
 * __[TED Talks: The Official TED Guide to Public Speaking][TED]__ by Chris Anderson
 
 ## @todo
 Books I've already bought and plan to read, or just planned to buy.
-* __[Exploring ES6][EES6]__ by Axel Rauschmayer _[started reading]_
-* __[ClojureScript: Up and Running][CSUR]__ by Stuart Sierra & Luke VanderHart _[bought]_
-* __[Clean Architecture](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)__ by Robert C. Martin _[bought]_
-* __[Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.bookdepository.com/Domain-Driven-Design-Eric-Evans/9780321125217)__ by Eric Evans
+* [Exploring ES6][EES6] by Axel Rauschmayer _[started reading]_
+* [ClojureScript: Up and Running][CSUR] by Stuart Sierra & Luke VanderHart _[bought]_
+* [Clean Architecture](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164) by Robert C. Martin _[bought]_
+* [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.bookdepository.com/Domain-Driven-Design-Eric-Evans/9780321125217) by Eric Evans
 
 [JSTDP]: http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742
 [PJSFWD]: http://www.amazon.com/Professional-JavaScript-Developers-Nicholas-Zakas/dp/1118026691
