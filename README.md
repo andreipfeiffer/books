@@ -34,6 +34,7 @@ These are the technical books I've read since 2013, broken down in categories. A
 
 ## Others
 * __[High Performance Browser Networking][HPBN]__ by Ilya Grigorik
+* __[TED Talks: The Official TED Guide to Public Speaking][TED]__ by Chris Anderson
 
 ## @todo
 Books I've already bought and plan to read, or just planned to buy.
@@ -70,3 +71,4 @@ Books I've already bought and plan to read, or just planned to buy.
 [DSAJS]: http://www.bookdepository.com/Data-Structures-Algorithms-with-JavaScript-Michael-McMillan/9781449364939
 [PR]: http://www.bookdepository.com/Pro-React-2015-Cassio-de-Sousa-Antonio/9781484212615
 [TNSD]: http://www.bookdepository.com/Nature-Software-Development-Ron-Jeffries/9781941222379
+[TED]: https://www.amazon.com/TED-Talks-Official-Public-Speaking/dp/1328710289
