@@ -40,8 +40,8 @@ These are the technical books I've read since 2013, broken down in categories. A
 Books I've already bought and plan to read, or just planned to buy.
 * __[Exploring ES6][EES6]__ by Axel Rauschmayer _[started reading]_
 * __[ClojureScript: Up and Running][CSUR]__ by Stuart Sierra & Luke VanderHart _[bought]_
-* __[Clean Architecture](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)__ by Robert C. Martin
-* __[Domain-Driven Design Reference](https://www.amazon.com/Domain-Driven-Design-Reference-Definitions-Summaries/dp/1457501198)__ by Eric Evans
+* __[Clean Architecture](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)__ by Robert C. Martin _[bought]_
+* __[Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.bookdepository.com/Domain-Driven-Design-Eric-Evans/9780321125217)__ by Eric Evans
 
 [JSTDP]: http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742
 [PJSFWD]: http://www.amazon.com/Professional-JavaScript-Developers-Nicholas-Zakas/dp/1118026691
