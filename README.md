@@ -26,6 +26,7 @@ These are the technical books I've read since 2013, broken down in categories. A
 * [Agile Software Development][ASD] by Robert C. Martin
 * __[Clean Code][CC]__ by Robert C. Martin
 * __[The Nature of Software Development][TNSD]__ by Ron Jeffries
+* __[Clean Architecture](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)__ by Robert C. Martin
 
 ## Design
 * __[Killer UX Design][KUXD]__ by Jodie Moule
@@ -39,9 +40,7 @@ These are the technical books I've read since 2013, broken down in categories. A
 ## @todo
 Books I've already bought and plan to read, or just planned to buy.
 * [Exploring ES6][EES6] by Axel Rauschmayer _[started reading]_
-* [ClojureScript: Up and Running][CSUR] by Stuart Sierra & Luke VanderHart _[bought]_
-* [Clean Architecture](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164) by Robert C. Martin _[bought]_
-* [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.bookdepository.com/Domain-Driven-Design-Eric-Evans/9780321125217) by Eric Evans
+* [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.bookdepository.com/Domain-Driven-Design-Eric-Evans/9780321125217) by Eric Evans _[bought]_
 
 [JSTDP]: http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742
 [PJSFWD]: http://www.amazon.com/Professional-JavaScript-Developers-Nicholas-Zakas/dp/1118026691
