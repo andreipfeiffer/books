@@ -41,6 +41,7 @@ These are the technical books I've read since 2013, broken down in categories. A
 Books I've already bought and plan to read, or just planned to buy.
 * [Exploring ES6][EES6] by Axel Rauschmayer _[started reading]_
 * [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.bookdepository.com/Domain-Driven-Design-Eric-Evans/9780321125217) by Eric Evans _[bought]_
+* [The Manager's Path](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth-ebook/dp/B06XP3GJ7F) by Camille Fournier
 
 [JSTDP]: http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742
 [PJSFWD]: http://www.amazon.com/Professional-JavaScript-Developers-Nicholas-Zakas/dp/1118026691
