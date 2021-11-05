@@ -2,31 +2,31 @@
 These are the technical books I've read since 2013, broken down in categories. All of them relate to software development & programming, but most of them focus on front-end development & JavaScript.
 
 ## JavaScript
-* [JavaScript, The Good Parts][JSTDP] by Douglas Crockford
-* [Professional JavaScript for Web Developers][PJSFWD] by Nicholas Zakas
+* __[Understanding ECMAScript 6][UES6]__ by Nicholas Zakas
 * __[Maintainable JavaScript][MJS]__ by Nicholas Zakas
 * __[Object-Oriented JavaScript][OOJS]__ by Nicholas Zakas
 * __[JavaScript Patterns][JSP]__ by Stoyan Stefanov
-* [Testable JavaScript][TJS] by Mark Ethan Trostler
 * __[High Performance JavaScript][HPJS]__ by Nicholas Zakas
+* __[Data Structures and Algorithms with JavaScript][DSAJS]__ by Michael McMillan
+* [JavaScript, The Good Parts][JSTDP] by Douglas Crockford
+* [Professional JavaScript for Web Developers][PJSFWD] by Nicholas Zakas
+* [Testable JavaScript][TJS] by Mark Ethan Trostler
 * [Expert JavaScript][EJS] by Mark Daggett
 * [Node.js in Action][NJSIA] by Mike Cantelon
 * [Functional JavaScript][FJS] by Michael Fogus
 * [JavaScript Application Design][JSAD] by Nicolas Bevacqua
-* __[Understanding ECMAScript 6][UES6]__ by Nicholas Zakas
 * [Programming JavaScript Applications][PJSA] by Eric Elliot
-* __[Data Structures and Algorithms with JavaScript][DSAJS]__ by Michael McMillan
 * [Pro React][PR] by Cassio de Sousa Antonio
 
 ## Principles, practices & theory
-* __[Refactoring][R]__ by Martin Fowler
-* __[The Clean Coder][TCC]__ by Robert C. Martin
-* __[The Pragmatic Programmer][TPP]__ by Andrew Hunt & David Thomas
-* [Test-Driven Development][TDD] by Kent Beck
-* [Agile Software Development][ASD] by Robert C. Martin
 * __[Clean Code][CC]__ by Robert C. Martin
+* __[Refactoring][R]__ by Martin Fowler
+* __[The Pragmatic Programmer][TPP]__ by Andrew Hunt & David Thomas
+* __[The Clean Coder][TCC]__ by Robert C. Martin
 * __[The Nature of Software Development][TNSD]__ by Ron Jeffries
 * __[Clean Architecture](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)__ by Robert C. Martin
+* [Test-Driven Development][TDD] by Kent Beck
+* [Agile Software Development][ASD] by Robert C. Martin
 
 ## Design
 * __[Killer UX Design][KUXD]__ by Jodie Moule
@@ -34,8 +34,8 @@ These are the technical books I've read since 2013, broken down in categories. A
 * [Don't Make Me Think][DMMT] by Steve Krug
 
 ## Others
-* [High Performance Browser Networking][HPBN] by Ilya Grigorik
 * __[TED Talks: The Official TED Guide to Public Speaking][TED]__ by Chris Anderson
+* [High Performance Browser Networking][HPBN] by Ilya Grigorik
 
 ## @todo
 Books I've already bought and plan to read, or just planned to buy.
